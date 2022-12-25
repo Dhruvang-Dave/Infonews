@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Russia may send empty Soyuz to bring ISS crew home",
+        "description": "The crew members may have to return to Earth early after their capsule started leaking.",
+        "url": "http://www.bbc.co.uk/news/world-europe-64072575",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7968/production/_128108013_mediaitem128108009.jpg",
+        "publishedAt": "2022-12-23T04:07:22.2719408Z",
+        "content": "Russia's space agency says it is considering sending an empty spacecraft to the International Space Station (ISS) to bring home three crew members ahead of schedule, after their Soyuz capsule started… [+1480 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Quiz of the Year, part one: Are you a 2022 news expert?",
+        "description": "How well do you remember the news of the past 12 months?",
+        "url": "http://www.bbc.co.uk/news/world-63822584",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17DD4/production/_127884779_oscars.jpg",
+        "publishedAt": "2022-12-23T04:07:18.1167245Z",
+        "content": "How well do you remember the stories and people in the news this year?\r\nTest your memory of 2021 in our four-part Christmas quiz - 52 questions for 52 weeks of the year - part one covers January to M… [+143 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "FTX founder released to parents on $250m bail",
+        "description": "Prosecutors have accused Sam Bankman-Fried of \"one of the biggest financial frauds in US history\".",
+        "url": "http://www.bbc.co.uk/news/business-64068810",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C88C/production/_128104315_whatsubject.jpg",
+        "publishedAt": "2022-12-23T03:22:25.8190704Z",
+        "content": "Former FTX boss Sam Bankman-Fried will face home detention while awaiting trial in the US on charges that he defrauded customers and investors of the collapsed cryptocurrency exchange.\r\nA US judge sa… [+2992 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Here are the key findings in the January 6 committee's final report",
+        "description": "The panel, which has recommended Donald Trump face criminal charges, releases its 845-page findings.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64071723",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/527D/production/_128071112_gettyimages-1230447877.jpg",
+        "publishedAt": "2022-12-23T03:22:20.6328619Z",
+        "content": "The January 6 committee investigating the attack on the US Capitol has released its final report. \r\nThey have outlined their case that former President Donald Trump was primarily responsible for the … [+5942 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "After an epic journey ends, what happens next?",
+        "description": "Migrants allowed into the US don't stay at the border long - this is how they decide where to go now.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64069243",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13AB0/production/_128106508_top.jpg",
+        "publishedAt": "2022-12-23T01:07:23.4609759Z",
+        "content": "To reach the US border, Wilmary Camacho had to cross thousands of miles of mountains and jungles, battling diseases and facing violent robberies - all while travelling with her four-month-old baby an… [+5405 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Myanmar: 'If I get the first shot, I will kill you son’",
+        "description": "Myanmar's civil war is pitting a father, fighting in the resistance, against his sons in the army.",
+        "url": "https://www.bbc.co.uk/news/world-asia-63623904",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA82/production/_127743006_myanmar_divide_family_illustration_2.jpg",
+        "publishedAt": "2022-12-23T00:52:17.4147932Z",
+        "content": "\"I'm sure I will kill you - if I get to fire first,\" warns the father. \r\nHe's on the phone to his son, who is serving in the Myanmar military.\r\nBo Kyar Yine joined the armed resistance after a milita… [+7729 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "North Korea sold arms to Russia's Wagner group, US says",
+        "description": "The White House says North Korea provided missiles and rockets to be used in Ukraine, which Pyongyang denies.",
+        "url": "http://www.bbc.co.uk/news/world-europe-64072570",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12FB5/production/_128094777_a5ec5423-b0ca-4498-b033-1b2f20c9c41f.jpg",
+        "publishedAt": "2022-12-23T00:37:24.1049084Z",
+        "content": "The United States has accused North Korea of supplying battlefield missiles and rockets to the Russian mercenary group Wagner for use in Ukraine.\r\nThe White House said the shipment violated UN Securi… [+2738 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Vietnam veteran wins lottery six times on intuition",
+        "description": "The Massachusetts man's head-scratching strategy nets him nearly $2m, plus 20 annual payments of $25,000.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64042271",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1F90/production/_128108080_fallrover.jpg",
+        "publishedAt": "2022-12-23T00:37:20.8244751Z",
+        "content": "A Vietnam veteran walked into a liquor store in Massachusetts on a cold December day relying on his intuition. \r\nHe played the lottery, like he had been doing for over 20 years.\r\nHis intuition told h… [+1007 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "What exactly is in the $1.7tr US spending bill?",
+        "description": "Provisions on everything from TikTok to lobster fishing are in the 4,155-page legislation.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64069764",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/112CE/production/_128105307_microsoftteams-image-19.png",
+        "publishedAt": "2022-12-23T00:07:21.2422699Z",
+        "content": "The US Senate has passed a $1.7tr (£1.4tr) government funding bill - most likely avoiding a partial government shutdown during the holiday season. \r\nThe House of Representatives now needs to pass it … [+4066 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US winter storm to bring coldest Christmas in decades",
+        "description": "The once-in-a-generation weather event may reach pressure equivalent to a Category 3 hurricane.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64061588",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15107/production/_128097268_gettyimages-1449921712.jpg",
+        "publishedAt": "2022-12-22T04:22:19.454885Z",
+        "content": "Media caption, BBC Weather's Sarah Keith-Lucas looks at the treacherous weather heading to the US and Canada\r\nA major winter storm sweeping the US this week may bring the coldest Christmas in four de… [+2828 chars]"
+      }
+    ]
+  }
